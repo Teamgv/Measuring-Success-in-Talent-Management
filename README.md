@@ -4,7 +4,7 @@ V.GOKULNATH
 K.GOBI KRISHNAN
 M.KARTHIK
 
-Dasboard public link- https://public.tableau.com/views/MeasuringsuccessinTalentManagement_16966088631250/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link 
+Dashboard public link- https://public.tableau.com/views/MeasuringsuccessinTalentManagement_16966088631250/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link 
 
 Story Public link- https://public.tableau.com/views/MeasuringsuccessinTalentManagement_16966088631250/HRAnalyticsStoryline?:language=en-US&:display_count=n&:origin=viz_share_link
 
