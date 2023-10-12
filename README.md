@@ -1,1 +1,5 @@
 # Measuring-Success-in-Talent-Management
+team leader :R. GURU VISHNU ( NM ID : 08CFD1DAFFE10C0A14345FA0CDAB2D63)
+V.GOKULNATH
+K.GOBI KRISHNAN
+M.KARTHIK
